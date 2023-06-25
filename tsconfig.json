@@ -29,8 +29,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "@types/ejs",
-    "cli/index.js",
-    "cli/createTemplate.js"
+    "bin/index.js",
+    "bin/createTemplate.js"
   ],
   "exclude": ["node_modules"]
 }

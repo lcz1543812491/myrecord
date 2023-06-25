@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { mkdirSync, writeFileSync } from 'fs'
 import createTemplate from './createTemplate.js'
 import questions from './questions/index.js'

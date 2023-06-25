@@ -10,7 +10,7 @@
     "package.json"
   ],
   "scripts": {
-    "test": "rm -rf ./hei && node ./cli/index.js"
+    "test": "rm -rf ./hei && node ./bin/index.js"
   },
   "keywords": [],
   "author": "",
